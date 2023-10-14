@@ -15,5 +15,13 @@ La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qu
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Php](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 [![Bash shell](https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=shell&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS-3-blue)]()
+[![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+<br/>
+[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/mysql-silver?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Kodi](https://img.shields.io/badge/kodi-blue?style=for-the-badge&logo=kodi&logoColor=white&labelColor=101010)]()
+
+<br/>
 [![GnuLinux](https://img.shields.io/badge/LINUX-cian?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
