@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![entreunosycerosLogoGoogle](https://github.com/sapoclay/sapoclay/assets/6242827/a4166e7f-ea5e-41d4-9d23-a6bb37d8b80c)
+
 **sapoclay/sapoclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
