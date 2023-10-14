@@ -20,7 +20,6 @@ La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qu
 [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/mysql-silver?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Kodi](https://img.shields.io/badge/kodi-blue?style=for-the-badge&logo=kodi&logoColor=white&labelColor=101010)]()
-
 <br/>
 [![GnuLinux](https://img.shields.io/badge/LINUX-cian?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]()
 [![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
