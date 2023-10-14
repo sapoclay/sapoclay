@@ -31,6 +31,12 @@ La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qu
 [![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kodi](https://img.shields.io/badge/kodi-blue?style=for-the-badge&logo=kodi&logoColor=white&labelColor=101010)]()
+<br/>
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=blue&labelColor=101010)]()
+[![Json](https://img.shields.io/badge/json-silver?style=for-the-badge&logo=json&logoColor=blue&labelColor=101010)]()
+[![NPM](https://img.shields.io/badge/npm-green?style=for-the-badge&logo=npm&logoColor=blue&labelColor=101010)]()
+[![Gnome](https://img.shields.io/badge/gnome-black?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)]()
+
 
 ... y algunas otras cosas que me dejo en el tintero ...
 
