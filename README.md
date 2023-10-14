@@ -1,4 +1,4 @@
-![para crear páginas web](https://github.com/sapoclay/sapoclay/assets/6242827/77debde4-11a9-4dd6-88ef-e7e9f97cd209)#  ![logo-login](https://github.com/sapoclay/sapoclay/assets/6242827/f3d152d8-c876-4852-8ca5-c8946d9925f1) Repositorio para ✨ entreunosyceros.net ✨
+![logo-login](https://github.com/sapoclay/sapoclay/assets/6242827/f3d152d8-c876-4852-8ca5-c8946d9925f1) # Repositorio para ✨ entreunosyceros.net ✨
 
 ### Freelance y desarrollador de cosas para todo el que lo pida
 
@@ -8,7 +8,7 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 
 La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qué complicarse?
 
-![Static Badge](https://img.shields.io/badge/PHP?style=for-the-badge&logo=php&logoColor=blue&labelColor=101010)
+[![PHP](https://img.shields.io/badge/PHP?style=for-the-badge&logo=php&logoColor=blue&labelColor=101010)](https://img.shields.io/badge/PHP-999999?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
 
 <!--**sapoclay/sapoclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
