@@ -1,6 +1,7 @@
-### Hi there 👋
+### Repositorio para entreunosyceros.net
 
-![entreunosycerosLogoGoogle](https://github.com/sapoclay/sapoclay/assets/6242827/a4166e7f-ea5e-41d4-9d23-a6bb37d8b80c)
+![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+
 
 <!--**sapoclay/sapoclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
