@@ -12,6 +12,7 @@ La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qu
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Php](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
+[![Bash shell](https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=shell&logoColor=white&labelColor=101010)]()
 <!--**sapoclay/sapoclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
