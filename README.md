@@ -1,8 +1,14 @@
-### Repositorio para entreunosyceros.net
+# ![entreunosycerosParaLogo](https://github.com/sapoclay/sapoclay/assets/6242827/7c133681-8f0c-4437-8c73-1e29170bef57) Repositorio para ✨ entreunosyceros.net ✨
+
+### Freelance y desarrollador de cosas para todo el que lo pida
 
 ![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
 
+Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado en entreunosyceros.net. He colaborado con diferentes personas y empresas durante el camino, y he aprendido diferentes lenguajes con lo que voy buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
 
+La máxima de este proyecto es que si se puede hacer de forma sencilla, ¿por qué complicarse?
+
+[![PHP](https://badgen.net/#badge/para%20crear/p%C3%A1ginas%20web/?icon=php)]()
 <!--**sapoclay/sapoclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
