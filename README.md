@@ -10,9 +10,9 @@
 ![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
 
 Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado siendo entreunosyceros.net. He colaborado con diferentes personas y empresas durante el camino, mientras he ido aprendiendo diferentes lenguajes, con lo que voy buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
-<div align="center">
+
 ![Y0m1sm0](https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312)
-</div>
+
 La máxima de este proyecto es; si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
 
 ### Algunas cosas con las que me complico el día a día son: 
