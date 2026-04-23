@@ -2,19 +2,19 @@
 
 <div align="center">
   <img width="100%" height="auto" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
-  
-  ## Freelance y desarrollador de cosas para todo el que lo pida
 </div>
 
-![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+## Freelance y desarrollador de cosas para todo el que lo pida
 
 Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado siendo **entreunosyceros.net**. He colaborado con diferentes personas y empresas durante el camino, mientras he ido aprendiendo diferentes lenguajes, buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
+
+![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
 
 > La máxima de este proyecto es: si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
 
 ---
 
-### 🛠️ Mis herramientas de "complicarme" el día a día:
+### 🛠️ Mis herramientas para "complicarme" el día a día:
 
 #### **Desarrollo & Backend**
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
