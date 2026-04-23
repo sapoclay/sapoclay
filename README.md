@@ -41,10 +41,12 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kodi](https://img.shields.io/badge/kodi-blue?style=for-the-badge&logo=kodi&logoColor=white&labelColor=101010)]()
 
-#### **DevOps & Gestión**
+#### **DevOps, Gestión & Otros**
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![NPM](https://img.shields.io/badge/npm-green?style=for-the-badge&logo=npm&logoColor=blue&labelColor=101010)]()
 [![Apache](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 
 ---
 *... y algunas otras cosas que me dejo en el tintero ...*
@@ -52,7 +54,7 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 ### 📊 GitHub Stats
 <div align="center">
   <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sapoclay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapoclay&theme=tokyonight&langs_count=20&layout=compact" />
+  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapoclay&theme=tokyonight&langs_count=21&layout=compact" />
 </div>
 
 ---
