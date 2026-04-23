@@ -63,7 +63,7 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 Puedes visitar mis cosas y alguna más en: 
 
 [![Web](https://img.shields.io/badge/Web-entreunosyceros.net-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://entreunosyceros.net)
-[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/sapoclay)
+[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/entreunosyceros)
 ---
 <p align="right">
   <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px">
