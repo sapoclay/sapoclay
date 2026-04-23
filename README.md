@@ -56,6 +56,6 @@ Puedes visitar mis cosas y alguna más en:
 [![Web](https://img.shields.io/badge/Web-entreunosyceros.net-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://entreunosyceros.net)
 [![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/sapoclay)
 ---
-<p align="center">
+<p align="right">
   <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px">
 </p>
