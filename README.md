@@ -1,5 +1,6 @@
+<div align="center">
 <img width="768" height="192" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
-
+</div>
 # Repositorio para ✨ entreunosyceros.net ✨
 
 ## Freelance y desarrollador de cosas para todo el que lo pida
