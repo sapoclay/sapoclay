@@ -48,6 +48,13 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 
 ---
 *... y algunas otras cosas que me dejo en el tintero ...*
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sapoclay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapoclay&layout=compact&theme=tokyonight"/>
+</div>
+
 ---
 
 ### 📫 ¿Dónde encontrarme?
