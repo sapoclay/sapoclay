@@ -1,8 +1,10 @@
+<p>
 <div align="center">
 <img width="768" height="192" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
-</div>
-# Repositorio para ✨ entreunosyceros.net ✨
 
+# Repositorio para ✨ entreunosyceros.net ✨
+</div>
+</p>
 ## Freelance y desarrollador de cosas para todo el que lo pida
 
 ![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
