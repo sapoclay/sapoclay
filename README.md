@@ -57,7 +57,7 @@ He colaborado con diversas empresas y mentes creativas, buscando siempre la solu
 Acompáñame en mi rincón de la red:
 
 [![Web](https://img.shields.io/badge/Web-entreunosyceros.net-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://entreunosyceros.net)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sapoclay)
+[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sapoclay)
 
 ---
 <p align="center">
