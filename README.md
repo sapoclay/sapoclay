@@ -12,8 +12,6 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 
 > La máxima de este proyecto es: si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
 
-![Y0m1sm0](https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312)
-
 ---
 
 ### 🛠️ Mis herramientas de "complicarme" el día a día:
