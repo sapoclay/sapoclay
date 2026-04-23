@@ -1,4 +1,4 @@
-![logo-login](https://github.com/sapoclay/sapoclay/assets/6242827/f3d152d8-c876-4852-8ca5-c8946d9925f1) 
+<img width="768" height="192" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
 
 # Repositorio para ✨ entreunosyceros.net ✨
 
