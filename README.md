@@ -53,8 +53,8 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=sapoclay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapoclay&theme=tokyonight&langs_count=10&layout=compact&hide_progress=false&card_width=450" />
+  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=entreunosyceros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entreunosyceros&theme=tokyonight&langs_count=10&layout=compact&hide_progress=false&card_width=450" />
 </div>
 
 ---
