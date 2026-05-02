@@ -1,17 +1,8 @@
 # ⚡ entreunosyceros
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+automatizar.py;Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+existen;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo" />
-  <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&width=1000&height=420&lines=entreunosyceros@dev:~$+whoami;freelance+developer+%7C+automation+%7C+security;entreunosyceros@dev:~$+cat+philosophy.txt;-+menos+frameworks+innecesarios;-+m%C3%A1s+control+-+menos+humo;entreunosyceros@dev:~$+ls+projects;audit-tools%2F+m3u-player%2F+automation%2F+tui-apps%2F;entreunosyceros@dev:~$+run+automation.sh;[+]+ejecutando+tareas...;[%E2%9C%93]+completado+sin+intervenci%C3%B3n+humana;entreunosyceros@dev:~$+nmap+industry;open+ports:+automation%2C+security;vulnerabilities:+corporate_bullshit+(critical);entreunosyceros@dev:~$+echo+%22status%22;building+things+that+actually+work...;_" />
-</p>
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+automatizar.py;Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+existen;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo;Si+no+funciona...+lo+optimizo+también" />
 </div>
-
-</div>
-
 
 ---
 
@@ -19,7 +10,11 @@
 
 Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado siendo **entreunosyceros.net**. He colaborado con diferentes personas y empresas durante el camino, mientras he ido aprendiendo diferentes lenguajes, buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
 
-![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+<p>
+<div align="center">
+  <img width="100%" height="auto" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
+</div>
+</p>
 
 > La máxima de este proyecto es: si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
 
@@ -140,9 +135,8 @@ Puedes visitar mis cosas y alguna más en:
 <p align="right">
   <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px">
 </p>
+<p align="center">
+![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+</p>
 
 ---
-
-<div align="center">
-  <img width="100%" height="auto" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
-</div>
