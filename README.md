@@ -1,7 +1,7 @@
 # ⚡ entreunosyceros
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+automatizar.py;Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+existen;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo;Si+no+funciona...+lo+optimizo+también" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=python3+ ++mis+_+cosas.py;Automatizo+cosas+útiles+para+mis+cosas;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+las+encuentro;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo;Si+no+funciona...+lo+optimizo+también" />
 </div>
 
 ---
