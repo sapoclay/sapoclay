@@ -1,7 +1,7 @@
 # ⚡ entreunosyceros
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=980&height=120&lines=python3+mis_cosas.py;Automatizo+cosas+%C3%BAtiles+para+mi+y+mis+cosas;Menos+meetings%2C+m%C3%A1s+scripts;Hago+auditor%C3%ADas+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+las+encuentro;Rompo+cosas+para+entenderlas;Uso+Python+Bash+Docker+sin+magia;Uso+más+Terminal+y+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo;Si+no+funciona...+lo+optimizo+también+para+que+funcione"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00FF41&background=000000&center=true&vCenter=true&width=980&height=120&lines=mis+cosas+y+juegos;Automatizo+cosas+%C3%BAtiles+para+mi+y+mis+cosas;Menos+meetings%2C+m%C3%A1s+scripts;Hago+auditor%C3%ADas+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+las+encuentro;Rompo+cosas+para+entenderlas;Uso+Python+Bash+Docker+sin+magia;Uso+más+Terminal+y+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo;Si+no+funciona...+lo+optimizo+también+para+que+funcione+mejor"  />
 </div>
 
 ---
