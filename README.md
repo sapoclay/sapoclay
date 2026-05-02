@@ -26,7 +26,7 @@ Aquí no vas a encontrar:
 
 Aquí hay otra cosa:
 
-> código que funciona, herramientas que sirven y soluciones que ahorran tiempo.
+> código que me ha funcionado, muchos comentarios, herramientas que sirven para ciertos propósitos y soluciones que ahorran tiempo.
 
 Desde 2008 trasteando en **entreunosyceros.net**, aprendiendo a base de romper cosas (y arreglarlas después).
 
