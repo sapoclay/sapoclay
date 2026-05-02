@@ -133,11 +133,11 @@ Puedes visitar mis cosas y alguna más en:
 ---
 <p align="right">
   <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px"><br/>
-  ***Desde 2008 trasteando en **entreunosyceros.net**, aprendiendo a base de romper cosas (y arreglarlas después)***
+  *Desde 2008 <br/>trasteando en **entreunosyceros.net**<br/> aprendiendo a base de romper cosas<br/> (y arreglarlas después)*
 
 </p>
-<p align="center">
+
 ![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
-</p>
+
 
 ---
