@@ -1,106 +1,148 @@
-<!-- 🔥 TYPING HEADER -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+boot+entreunosyceros.sh;Inicializando+entorno...;Cargando+automatizaciones;Menos+meetings%2C+m%C3%A1s+scripts;Terminal+%3E+interfaces+bonitas" />
-</p>
-
----
-
-<!-- 💻 FAKE TERMINAL -->
+# ⚡ entreunosyceros
 
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+automatizar.py;Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+existen;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo" />
+  <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&width=1000&height=420&lines=entreunosyceros@dev:~$+whoami;freelance+developer+%7C+automation+%7C+security;entreunosyceros@dev:~$+cat+philosophy.txt;-+menos+frameworks+innecesarios;-+m%C3%A1s+control+-+menos+humo;entreunosyceros@dev:~$+ls+projects;audit-tools%2F+m3u-player%2F+automation%2F+tui-apps%2F;entreunosyceros@dev:~$+run+automation.sh;[+]+ejecutando+tareas...;[%E2%9C%93]+completado+sin+intervenci%C3%B3n+humana;entreunosyceros@dev:~$+nmap+industry;open+ports:+automation%2C+security;vulnerabilities:+corporate_bullshit+(critical);entreunosyceros@dev:~$+echo+%22status%22;building+things+that+actually+work...;_" />
+</p>
 
-<pre>
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> whoami
-freelance developer | automation | security | builder
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> uname -a
-Linux mindset 6.6.6-automation #1 SMP hacking-mode
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> cat philosophy.txt
-- menos frameworks innecesarios
-- más control
-- entender lo que pasa por debajo
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> ls projects/
-audit-tools/    m3u-player/    automation-scripts/    tui-apps/
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> ./run_automation.sh
-[+] cargando módulos...
-[+] conectando APIs...
-[+] ejecutando tareas...
-[✓] tareas completadas sin intervención humana
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> nmap -sV reality
-Scanning...
-open ports: automation, security, scripting
-vulnerabilities: corporate_bullshit (critical)
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> echo "estado actual"
-building things that actually work...
-
-<span style="color:#00ff9c;">entreunosyceros@dev:~$</span> _
-</pre>
 
 </div>
 
----
+</div>
 
-<!-- 🧠 SOBRE MÍ -->
-
-## 🧠 Sobre mí
-
-No hago código para presentaciones.
-Hago código para que las cosas funcionen.
-
-Desde 2008 construyendo, rompiendo y optimizando en **entreunosyceros.net**.
 
 ---
 
-<!-- 🚀 QUÉ HAGO -->
+## 🧠 Sobre mí: Freelance y desarrollador de cosas para todo el que lo pida
 
-## 🚀 Qué hago
+Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado siendo **entreunosyceros.net**. He colaborado con diferentes personas y empresas durante el camino, mientras he ido aprendiendo diferentes lenguajes, buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
 
-* 🐍 Automatización con Python
-* 🔐 Auditoría y seguridad
-* 🧰 Herramientas propias (CLI / TUI)
-* 📡 Procesamiento de datos y streams
+![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+
+> La máxima de este proyecto es: si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
+
+Aquí no vas a encontrar:
+
+* arquitecturas infladas
+* 14 frameworks para hacer un CRUD
+* ni buzzwords recicladas de LinkedIn
+
+Aquí hay otra cosa:
+
+> código que funciona, herramientas que sirven y soluciones que ahorran tiempo.
+
+Desde 2008 trasteando en **entreunosyceros.net**, aprendiendo a base de romper cosas (y arreglarlas después).
+
+---
+
+## 🚀 Qué hago (de verdad)
+
+* 🐍 Automatizo procesos que la gente sigue haciendo a mano
+* 🔐 Encuentro cosas que no deberían estar expuestas
+* 🧰 Construyo herramientas cuando no existen (CLI / TUI)
+* 📡 Juego con streams, datos y APIs hasta que hacen lo que necesito
 * ⚙️ Backend sin magia innecesaria
 
 ---
 
-<!-- 🧰 STACK -->
+## 🔥 Filosofía
 
-## 🧰 Stack
+> Si necesitas 3 servicios, 2 capas y un máster para entender tu propio código… algo va mal.
 
-🐍 Python · ⚙️ Bash · 🌐 JS · 🐘 PHP
-🐳 Docker · 🗄️ MySQL · 🐧 Linux
+* Menos abstracción absurda
+* Menos dependencia por moda
+* Más control
+* Más saber qué está pasando realmente
 
 ---
 
-<!-- 📊 STATS -->
+## 🧨 Proyectos
+
+No todo está bonito. Pero todo hace algo que me ha resultado útil en algún momento.
+
+👉 Si quieres ver código real, no demos, date una vuelta por los repos.
+
+---
+
+## ⚠️ Disclaimer
+
+No optimizo para “quedar bien”. Optimizo para que funcione.
+
+Si además queda elegante… será pura casualidad.
+
+---
+
+
+### 🛠️ Mis herramientas para "complicarme" el día a día:
+
+#### **Desarrollo & Backend**
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Php](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&logoColor=blue&labelColor=101010)]()
+[![Bash shell](https://img.shields.io/badge/gnubash-red?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=101010)]()
+[![Json](https://img.shields.io/badge/json-silver?style=for-the-badge&logo=json&logoColor=blue&labelColor=101010)]()
+
+#### **Frontend & Web**
+[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/html5-aqua?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+
+#### **CMS & Bases de Datos**
+[![Wordpress](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
+[![Prestashop](https://img.shields.io/badge/prestashop-pink?style=for-the-badge&logo=prestashop&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/mysql-silver?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+#### **Sistemas & Entornos**
+[![GnuLinux](https://img.shields.io/badge/LINUX-cian?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]()
+[![Gnome](https://img.shields.io/badge/gnome-black?style=for-the-badge&logo=gnome&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/windows-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kodi](https://img.shields.io/badge/kodi-blue?style=for-the-badge&logo=kodi&logoColor=white&labelColor=101010)]()
+
+#### **DevOps, Gestión & Otros**
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![NPM](https://img.shields.io/badge/npm-green?style=for-the-badge&logo=npm&logoColor=blue&labelColor=101010)]()
+[![Apache](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
+
+*(y sí, también Googleo cosas… como todo el mundo)*
+
+---
+
+## 🧩 Actualmente
+
+* Construyendo herramientas tipo terminal que hacen el trabajo sucio
+* Automatizando flujos que nadie quiere tocar
+* Probando cosas que probablemente rompan algo
+* Haciendo que Docker no me odie (a veces funciona)
+
+---
 
 ## 📊 Actividad
 
-<p align="center">
+<div align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=entreunosyceros&theme=tokyonight" />
+</div>
+
+---
+
+### 📫 Contacto
+
+Puedes visitar mis cosas y alguna más en: 
+
+[![Web](https://img.shields.io/badge/Web-entreunosyceros.net-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://entreunosyceros.net)
+[![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/entreunosyceros)
+---
+<p align="right">
+  <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px">
 </p>
 
 ---
 
-<!-- 🌍 CONTACTO -->
-
-## 🌍 Contacto
-
-* 🌐 https://entreunosyceros.net
-* 🐦 https://x.com/entreunosyceros
-
----
-
-<!-- ⚠️ DISCLAIMER -->
-
-## ⚠️ Disclaimer
-
-Si necesitas 20 capas para entender tu propio código…
-probablemente no era buena idea.
+<div align="center">
+  <img width="100%" height="auto" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
+</div>
