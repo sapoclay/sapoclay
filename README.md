@@ -1,7 +1,8 @@
 # ⚡ entreunosyceros
 
 <div align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00F7FF&background=0D1117&center=true&vCenter=true&width=900&lines=$+automatizar.py;$+romper_cosas.sh;$+docker+compose+up;$+echo+%22menos+meetings%2C+más+código%22" />
+
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings,+más+scripts;Si+funciona,+no+lo+toques+(o+rómpelo+mejor);Terminal+>+interfaces+bonitas" />
