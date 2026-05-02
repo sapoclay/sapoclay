@@ -31,7 +31,7 @@ Desde 2008 trasteando en **entreunosyceros.net**, aprendiendo a base de romper c
 * 🐍 Automatizo procesos que la gente sigue haciendo a mano
 * 🔐 Encuentro cosas que no deberían estar expuestas
 * 🧰 Construyo herramientas cuando no existen (CLI / TUI)
-* 📡 Juego con streams, datos y APIs hasta que hacen lo que quiero
+* 📡 Juego con streams, datos y APIs hasta que hacen lo que necesito
 * ⚙️ Backend sin magia innecesaria
 
 ### 🛠️ Mis herramientas para "complicarme" el día a día:
