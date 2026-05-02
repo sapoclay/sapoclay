@@ -136,9 +136,9 @@ Puedes visitar mis cosas y alguna más en:
  
 
 </p>
-<div align="center">Desde 2008 trasteando en entreunosyceros.net aprendiendo a base de romper cosas (y arreglarlas después) </div>
 
 ![entreunosyceros](https://github.com/sapoclay/sapoclay/assets/6242827/7749f902-321e-4fdd-984f-fc50e6cfee43)
+<div align="center">Desde 2008 trasteando en entreunosyceros.net aprendiendo a base de romper cosas (y arreglarlas después) </div>
 
 
 ---
