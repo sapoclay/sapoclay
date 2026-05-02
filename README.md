@@ -1,10 +1,9 @@
 # ⚡ entreunosyceros
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00F7FF&background=0D1117&center=true&vCenter=true&width=900&lines=Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings,+más+scripts;Si+funciona,+no+lo+toques+(o+rómpelo+mejor);Terminal+>+interfaces+bonitas%22" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4200&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=950&lines=$+automatizar.py;Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings%2C+m%C3%A1s+scripts;Auditor%C3%ADa+y+seguridad+sin+humo;Construyo+herramientas+cuando+no+existen;Rompo+cosas+para+entenderlas;Python+Bash+Docker+sin+magia;Terminal+%3E+interfaces+bonitas;Si+funciona...+lo+optimizo" />
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings,+más+scripts;Si+funciona,+no+lo+toques+(o+rómpelo+mejor);Terminal+>+interfaces+bonitas" />
 
 ---
 
