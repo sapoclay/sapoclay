@@ -4,7 +4,7 @@
   <img width="100%" height="auto" alt="logo-darktheme" src="https://github.com/user-attachments/assets/8c6d3837-f1f4-4b95-a261-7ec44bacbd45" />
 </div>
 
-## Freelance y desarrollador de cosas para todo el que lo pida
+## 🧠 Sobre mí: Freelance y desarrollador de cosas para todo el que lo pida
 
 Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal, y que tras diferentes épocas ha terminado siendo **entreunosyceros.net**. He colaborado con diferentes personas y empresas durante el camino, mientras he ido aprendiendo diferentes lenguajes, buscando soluciones a los problemas que los usuarios nos podemos encontrar en nuestro día a día. 
 
@@ -12,7 +12,27 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 
 > La máxima de este proyecto es: si se puede hacer de forma sencilla, ¿por qué hacerlo complicado?
 
+Aquí no vas a encontrar:
+
+* arquitecturas infladas
+* 14 frameworks para hacer un CRUD
+* ni buzzwords recicladas de LinkedIn
+
+Aquí hay otra cosa:
+
+> código que funciona, herramientas que sirven y soluciones que ahorran tiempo.
+
+Desde 2008 trasteando en **entreunosyceros.net**, aprendiendo a base de romper cosas (y arreglarlas después).
+
 ---
+
+## 🚀 Qué hago (de verdad)
+
+* 🐍 Automatizo procesos que la gente sigue haciendo a mano
+* 🔐 Encuentro cosas que no deberían estar expuestas
+* 🧰 Construyo herramientas cuando no existen (CLI / TUI)
+* 📡 Juego con streams, datos y APIs hasta que hacen lo que quiero
+* ⚙️ Backend sin magia innecesaria
 
 ### 🛠️ Mis herramientas para "complicarme" el día a día:
 
@@ -48,18 +68,53 @@ Esto tan solo es un proyecto que empecé allá por el 2008 como un blog personal
 [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 
----
-*... y algunas otras cosas que me dejo en el tintero ...*
+*(y sí, también Googleo cosas… como todo el mundo)*
 
-### 📊 GitHub Stats
+## 🔥 Filosofía
+
+> Si necesitas 3 servicios, 2 capas y un máster para entender tu propio código… algo va mal.
+
+* Menos abstracción absurda
+* Menos dependencia por moda
+* Más control
+* Más saber qué está pasando realmente
+  
+---
+
+## 🧩 Actualmente
+
+* Construyendo herramientas tipo terminal que hacen el trabajo sucio
+* Automatizando flujos que nadie quiere tocar
+* Probando cosas que probablemente rompan algo
+* Haciendo que Docker no me odie (a veces funciona)
+
+---
+
+## 📊 Actividad
+
 <div align="center">
-  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=entreunosyceros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img style="margin: 5px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entreunosyceros&theme=tokyonight&langs_count=10&layout=compact&hide_progress=false&card_width=450" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=entreunosyceros&theme=tokyonight" />
 </div>
 
 ---
 
-### 📫 ¿Dónde encontrarme?
+## 🧨 Proyectos
+
+No todo está bonito. Pero todo hace algo que me ha resultado útil en algún momento.
+
+👉 Si quieres ver código real, no demos, date una vuelta por los repos.
+
+---
+
+## ⚠️ Disclaimer
+
+No optimizo para “quedar bien”. Optimizo para que funcione.
+
+Si además queda elegante… será pura casualidad.
+
+---
+
+### 📫 Contacto
 Puedes visitar mis cosas y alguna más en: 
 
 [![Web](https://img.shields.io/badge/Web-entreunosyceros.net-14a1f0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://entreunosyceros.net)
@@ -68,3 +123,14 @@ Puedes visitar mis cosas y alguna más en:
 <p align="right">
   <img src="https://github.com/sapoclay/sapoclay/assets/6242827/ed2ec40d-1975-43b4-b117-a6fb9caad312" width="100px">
 </p>
+
+---
+# ⚡ entreunosyceros
+
+<div align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100%" />
+</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Automatizo+lo+que+nadie+quiere+hacer;Menos+meetings,+más+scripts;Si+funciona,+no+lo+toques+(o+rómpelo+mejor);Terminal+>+interfaces+bonitas" />
+
+---
